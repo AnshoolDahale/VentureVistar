@@ -547,9 +547,6 @@ cd backend
 - Write unit tests for new features
 - Follow the existing code style
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
