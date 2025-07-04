@@ -553,8 +553,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Mohit Sojitra** - Initial work and backend development
-- **Development Team** - Frontend and full-stack development
+- **Anshool Dahale** - Initial work and backend development , Frontend and full-stack development
+  
 
 ## 🙏 Acknowledgments
 
@@ -563,17 +563,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB for flexible data storage
 - All contributors and testers
 
-## 📞 Support
+## 📞 Support 8328004134
 
-For support, email support@venturevistar.com or join our Slack channel.
+For support, email anshooldahale08@gmail.com
 
-## 🔗 Links
 
-- [Live Demo](https://venturevistar.netlify.app) (if available)
-- [API Documentation](https://api.venturevistar.com/docs) (if available)
-- [Project Board](https://github.com/your-username/venturevistar/projects)
-
----
 
 <div align="center">
   <p>Made with ❤️ by the VentureVistar Team</p>
