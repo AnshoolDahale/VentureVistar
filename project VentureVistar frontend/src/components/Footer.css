@@ -1,0 +1,56 @@
+/* Additional styles for Footer component */
+.footer-container {
+  position: relative;
+  z-index: 10;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .footer-container {
+    padding: 1.5rem 1rem;
+  }
+  
+  .creator-info {
+    padding: 0.8rem;
+  }
+  
+  .contact-info {
+    gap: 1rem !important;
+  }
+  
+  .contact-item {
+    font-size: 0.9rem;
+  }
+  
+  .copyright-text {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-item {
+    font-size: 0.8rem;
+    padding: 0.4rem;
+  }
+  
+  .creator-name {
+    font-size: 1rem;
+  }
+  
+  .copyright-text {
+    font-size: 1rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .footer-container {
+    background: #667eea !important;
+    color: black !important;
+    box-shadow: none;
+  }
+  
+  .contact-item {
+    color: black !important;
+  }
+}
