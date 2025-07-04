@@ -553,8 +553,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Mohit Sojitra** - Initial work and backend development
-- **Development Team** - Frontend and full-stack development
+- **Anshool Dahale** - Initial work and backend development , Frontend and full-stack development
+  
 
 ## 🙏 Acknowledgments
 
